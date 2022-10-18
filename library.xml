@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<library>
+	<technical_books>
+		<book isbn="984-019293213">
+			<title>3D Printing for Dummies</title>
+			<author>Joan Burke</author>
+		</book>
+		<book isbn="785-348592776">
+			<title>Marketing Trends of the 21st Century</title>
+			<author>Rodney Smyth</author>
+		</book>			
+	</technical_books>
+	<cookery_books>
+		<book isbn="452-295838765">
+			<title>French Cuisine</title>
+			<author>Francois Croif</author>
+		</book>
+		<book isbn="945-092361243">
+			<title>Georgian Meals and the Stories Behind Them</title>
+			<author>Gia Dvitdze</author>
+		</book>			
+	</cookery_books>
+</library>
